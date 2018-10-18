@@ -1,5 +1,4 @@
 /temporary_downloads
 /vendor
 *.session
-*.lock
 /config.php
